@@ -1,0 +1,46 @@
+[
+  {
+    "name": "avant-garde lamp 1",
+    "company": "Houses",
+    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "featured": true,
+    "createdAt": "2023-08-10T10:07:41.876Z",
+    "updatedAt": "2023-08-10T10:16:43.298Z",
+    "image": "https://emelk.biz/mag/wp-content/uploads/2022/10/%D8%AF%DA%A9%D9%88%D8%B1%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%84%D8%A7%DA%A9%DA%86%D8%B1%DB%8C-%D9%85%D9%86%D8%B2%D9%84-%D8%B4%DB%8C%DA%A9.jpg",
+    "price": 3000,
+    "clerckId": "clerckId"
+  },
+  {
+    "name": "avant-garde lamp 2",
+    "company": "Modenza",
+    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "featured": true,
+    "createdAt": "2023-08-10T10:07:41.876Z",
+    "updatedAt": "2023-08-10T10:16:43.298Z",
+    "image": "https://emelk.biz/mag/wp-content/uploads/2022/10/%D8%AF%DA%A9%D9%88%D8%B1%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%84%D8%A7%DA%A9%DA%86%D8%B1%DB%8C-%D9%85%D9%86%D8%B2%D9%84.jpg",
+    "price": 5000,
+    "clerckId": "clerckId"
+  },
+  {
+    "name": "avant-garde lamp 3",
+    "company": "My Home",
+    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "featured": true,
+    "createdAt": "2023-08-10T10:07:41.876Z",
+    "updatedAt": "2023-08-10T10:16:43.298Z",
+    "image": "https://emelk.biz/mag/wp-content/uploads/2022/10/%D8%AF%DA%A9%D9%88%D8%B1%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D9%84%D8%A7%DA%A9%DA%86%D8%B1%DB%8C-780x450.jpg",
+    "price": 6000,
+    "clerckId": "clerckId"
+  },
+  {
+    "name": "avant-garde lamp 4",
+    "company": "Gooogle",
+    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "featured": false,
+    "createdAt": "2023-08-10T10:07:41.876Z",
+    "updatedAt": "2023-08-10T10:16:43.298Z",
+    "image": "https://emelk.biz/mag/wp-content/uploads/2022/05/%D8%AF%DA%A9%D9%88%D8%B1%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%85%D9%86%D8%B2%D9%84-%D8%A8%D8%A7-%D8%A7%D9%84%D9%85%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF.jpg",
+    "price": 6000,
+    "clerckId": "clerckId"
+  }
+]
