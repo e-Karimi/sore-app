@@ -6,7 +6,6 @@ import Image from "next/image";
 export default async function UserIcon() {
   const user = await currentUser();
   const profileImage = user?.imageUrl;
-  console.log("UserIcon ~ profileImage:", profileImage);
 
   if (profileImage) {
     return (
